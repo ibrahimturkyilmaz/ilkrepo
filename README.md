@@ -1,3 +1,3 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-www.patika.dev
+https://app.patika.dev/ibrahimt
