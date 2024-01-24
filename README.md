@@ -1,4 +1,4 @@
-# Kodluyoruz - FrontEnd 101 Eğitimi
+# İlk Repo
 > İbrahim Türkyılmaz
 > > [LinkedIn](https://www.linkedin.com/in/ibrahim-turkyilmaz-68a188253/) - [YouTube](https://www.youtube.com/channel/UCqA4Fv2aGa1LKkLjY1C7u7w) - [Medium](https://medium.com/@ibrahimtrkylmz632) - [Patika.dev](https://app.patika.dev/ibrahimt)
 
